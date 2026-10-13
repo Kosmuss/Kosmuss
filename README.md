@@ -1,5 +1,7 @@
 ## Olá, me chamo Igor e atualmente estudo ADS no IFSP. 👨‍💻
 
+Esse aqui é um repositório com alguns dos projetos que eu fiz na faculdade...
+
 <!--
 **Kosmuss/Kosmuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
